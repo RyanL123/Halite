@@ -1,7 +1,10 @@
-# Python bot for Halite.io, with a rating of 48 as of 2018/12/5
+# Python bot for Halite.io
 
-<h2> Rating: 48 </h2>
+## Rating: 48
 
-2018/12/5 V7
+## [Halite Profile](https://halite.io/user/?user_id=6541)
 
-2018/12/5 V8
+### 2018/12/5 V7
+
+### 2018/12/5 V8
+
