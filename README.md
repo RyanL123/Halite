@@ -1,8 +1,8 @@
 # Python bot for Halite.io
 
-### Rating: 48
+### Final Rating: 27.87
 
-### [Halite Profile](https://halite.io/user/?user_id=6541)
+### [Halite Profile](https://2018.halite.io/user/?user_id=6541)
 
 ### 2018/12/5 V7
 
